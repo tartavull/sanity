@@ -1,4 +1,4 @@
-# Sanity  
+# Sanity  [![Download Sanity.dmg](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=apple)](https://github.com/tartavull/sanity/releases/latest/download/Sanity.dmg)
 **A macOS status bar app for people who’ve had enough of calendars, clocks, and dead Roman guys.**  
 
 ![image](https://github.com/user-attachments/assets/06b31664-4307-4b68-a62d-703512c12d87)
